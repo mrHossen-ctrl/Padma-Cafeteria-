@@ -1,0 +1,12 @@
+.box {
+    background-color: aqua;
+    border: 5px;
+    border-radius: 30px;
+    margin-bottom:10px;
+    padding: 30px;
+}
+img {
+    width: 300px;
+    
+}
+body {background-color: chartreuse;}
